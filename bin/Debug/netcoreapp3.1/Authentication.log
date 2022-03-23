@@ -1,0 +1,616 @@
+INFO  12:26:21 Application started. Press Ctrl+C to shut down.
+INFO  12:26:21 Application started. Press Ctrl+C to shut down.
+INFO  12:26:22 Hosting environment: Development
+INFO  12:26:22 Hosting environment: Development
+INFO  12:26:22 Content root path: C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  12:26:22 Content root path: C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  12:26:51 Login method invoked, Username : nandan kumar
+INFO  12:26:51 CheckCredential method invoked.
+ERROR 12:26:55 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:26:55 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:27:00 Login method invoked, Username : nandan kumar
+INFO  12:27:00 CheckCredential method invoked.
+ERROR 12:27:04 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:27:04 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:27:39 Login method invoked, Username : nandan kumar
+INFO  12:27:39 CheckCredential method invoked.
+ERROR 12:27:43 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:27:43 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:28:06 Login method invoked, Username : nandan
+INFO  12:28:06 CheckCredential method invoked.
+ERROR 12:28:10 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:28:10 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:28:27 Login method invoked, Username : nandan
+INFO  12:28:27 CheckCredential method invoked.
+ERROR 12:28:31 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:28:31 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:29:41 Application started. Press Ctrl+C to shut down.
+INFO  12:29:41 Application started. Press Ctrl+C to shut down.
+INFO  12:29:41 Hosting environment: Development
+INFO  12:29:41 Hosting environment: Development
+INFO  12:29:41 Content root path: C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  12:29:41 Content root path: C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  12:30:11 Login method invoked, Username : admin
+INFO  12:30:11 CheckCredential method invoked.
+ERROR 12:30:15 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:30:15 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:33:19 Login method invoked, Username : abcdef
+INFO  12:33:19 CheckCredential method invoked.
+ERROR 12:33:24 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:33:24 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:34:44 Application started. Press Ctrl+C to shut down.
+INFO  12:34:44 Application started. Press Ctrl+C to shut down.
+INFO  12:34:44 Hosting environment: Development
+INFO  12:34:44 Hosting environment: Development
+INFO  12:34:44 Content root path: C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  12:34:44 Content root path: C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  12:35:17 Login method invoked, Username : nandan
+INFO  12:35:17 CheckCredential method invoked.
+ERROR 12:35:22 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:35:22 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:49:00 Application started. Press Ctrl+C to shut down.
+INFO  12:49:00 Application started. Press Ctrl+C to shut down.
+INFO  12:49:00 Hosting environment: Development
+INFO  12:49:00 Hosting environment: Development
+INFO  12:49:00 Content root path: C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  12:49:00 Content root path: C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  12:49:24 Login method invoked, Username : nandan
+INFO  12:49:24 CheckCredential method invoked.
+ERROR 12:49:29 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:49:29 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:50:15 Login method invoked, Username : abcdef
+INFO  12:50:15 CheckCredential method invoked.
+ERROR 12:50:19 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:50:19 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:53:06 Login method invoked, Username : nandan
+INFO  12:53:06 CheckCredential method invoked.
+ERROR 12:53:10 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:53:10 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:54:57 Login method invoked, Username : nandan
+INFO  12:54:57 CheckCredential method invoked.
+INFO  12:55:00 Login method invoked, Username : nandan
+INFO  12:55:00 CheckCredential method invoked.
+ERROR 12:55:01 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:55:01 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:55:03 Login method invoked, Username : nandan
+INFO  12:55:03 CheckCredential method invoked.
+ERROR 12:55:04 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:55:04 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:55:07 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:55:07 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:55:29 Login method invoked, Username : abcdef
+INFO  12:55:29 CheckCredential method invoked.
+ERROR 12:55:33 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:55:33 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:55:56 Login method invoked, Username : abcdef
+INFO  12:55:56 CheckCredential method invoked.
+ERROR 12:56:00 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:56:00 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  02:11:50 Application started. Press Ctrl+C to shut down.
+INFO  02:11:50 Application started. Press Ctrl+C to shut down.
+INFO  02:11:50 Hosting environment: Development
+INFO  02:11:50 Hosting environment: Development
+INFO  02:11:50 Content root path: C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  02:11:50 Content root path: C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  02:45:36 Application started. Press Ctrl+C to shut down.
+INFO  02:45:36 Application started. Press Ctrl+C to shut down.
+INFO  02:45:36 Hosting environment: Development
+INFO  02:45:36 Hosting environment: Development
+INFO  02:45:36 Content root path: C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  02:45:36 Content root path: C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization
+INFO  02:46:46 Login method invoked, Username : hell
+INFO  02:46:46 CheckCredential method invoked.
+ERROR 02:46:51 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 02:46:51 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  02:47:07 Login method invoked, Username : hell
+INFO  02:47:07 CheckCredential method invoked.
+ERROR 02:47:11 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 02:47:11 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  02:48:04 Login method invoked, Username : hell
+INFO  02:48:04 CheckCredential method invoked.
+INFO  02:48:07 Login method invoked, Username : hell
+INFO  02:48:07 CheckCredential method invoked.
+ERROR 02:48:08 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 02:48:08 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 02:48:12 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 02:48:12 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  02:49:18 Login method invoked, Username : john@123
+INFO  02:49:18 CheckCredential method invoked.
+ERROR 02:49:22 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 02:49:22 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  02:49:40 Login method invoked, Username : hell
+INFO  02:49:40 CheckCredential method invoked.
+ERROR 02:49:44 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 02:49:44 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  02:50:01 Login method invoked, Username : hell
+INFO  02:50:01 CheckCredential method invoked.
+ERROR 02:50:05 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 02:50:05 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  02:51:36 Login method invoked, Username : abcdef
+INFO  02:51:36 CheckCredential method invoked.
+ERROR 02:51:40 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 02:51:40 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  03:11:23 Login method invoked, Username : hell
+INFO  03:11:23 CheckCredential method invoked.
+ERROR 03:11:27 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 03:11:27 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  03:35:49 Application started. Press Ctrl+C to shut down.
+INFO  03:35:49 Application started. Press Ctrl+C to shut down.
+INFO  03:35:49 Hosting environment: Development
+INFO  03:35:49 Hosting environment: Development
+INFO  03:35:49 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  03:35:49 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  03:36:37 Login method invoked, Username : imtiyaz
+INFO  03:36:37 CheckCredential method invoked.
+ERROR 03:36:42 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 03:36:42 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  03:40:35 Login method invoked, Username : abcdef
+INFO  03:40:35 CheckCredential method invoked.
+ERROR 03:40:39 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 03:40:39 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  10:36:35 Application started. Press Ctrl+C to shut down.
+INFO  10:36:35 Application started. Press Ctrl+C to shut down.
+INFO  10:36:35 Hosting environment: Development
+INFO  10:36:35 Hosting environment: Development
+INFO  10:36:35 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:36:35 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:37:09 Login method invoked, Username : imtiyaz
+INFO  10:37:09 CheckCredential method invoked.
+ERROR 10:37:14 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 10:37:14 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  10:38:27 Application started. Press Ctrl+C to shut down.
+INFO  10:38:27 Application started. Press Ctrl+C to shut down.
+INFO  10:38:27 Hosting environment: Development
+INFO  10:38:27 Hosting environment: Development
+INFO  10:38:27 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:38:27 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:42:04 Application started. Press Ctrl+C to shut down.
+INFO  10:42:04 Application started. Press Ctrl+C to shut down.
+INFO  10:42:04 Hosting environment: Development
+INFO  10:42:04 Hosting environment: Development
+INFO  10:42:04 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:42:04 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:42:25 Login method invoked, Username : imtiyaz
+INFO  10:42:25 CheckCredential method invoked.
+INFO  10:46:25 Login method invoked, Username : john@123
+INFO  10:46:25 CheckCredential method invoked.
+INFO  10:47:21 Login method invoked, Username : john@123
+INFO  10:47:21 CheckCredential method invoked.
+INFO  10:54:13 Login method invoked, Username : john@123
+INFO  10:54:13 CheckCredential method invoked.
+INFO  10:54:19 Login method invoked, Username : john@123
+INFO  10:54:19 CheckCredential method invoked.
+INFO  10:54:43 Login method invoked, Username : john@123
+INFO  10:54:43 CheckCredential method invoked.
+INFO  10:14:21 Application started. Press Ctrl+C to shut down.
+INFO  10:14:21 Application started. Press Ctrl+C to shut down.
+INFO  10:14:21 Hosting environment: Development
+INFO  10:14:21 Hosting environment: Development
+INFO  10:14:21 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:14:21 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:14:56 Login method invoked, Username : john@123
+INFO  10:14:56 CheckCredential method invoked.
+ERROR 10:15:01 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 10:15:01 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  10:17:05 Login method invoked, Username : john@123
+INFO  10:17:05 CheckCredential method invoked.
+INFO  10:17:26 Login method invoked, Username : john@123
+INFO  10:17:26 CheckCredential method invoked.
+INFO  10:17:42 Login method invoked, Username : john@123
+INFO  10:17:42 CheckCredential method invoked.
+INFO  10:25:28 Login method invoked, Username : john@123
+INFO  10:25:28 CheckCredential method invoked.
+INFO  10:33:34 Login method invoked, Username : john@123
+INFO  10:33:34 CheckCredential method invoked.
+INFO  10:44:24 Application started. Press Ctrl+C to shut down.
+INFO  10:44:24 Application started. Press Ctrl+C to shut down.
+INFO  10:44:24 Hosting environment: Development
+INFO  10:44:24 Hosting environment: Development
+INFO  10:44:24 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:44:24 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:45:56 Login method invoked, Username : john@123
+INFO  10:45:56 CheckCredential method invoked.
+INFO  10:46:15 Login method invoked, Username : john@123
+INFO  10:46:15 CheckCredential method invoked.
+INFO  10:50:28 Login method invoked, Username : nandan@123
+INFO  10:50:28 CheckCredential method invoked.
+INFO  10:50:55 Login method invoked, Username : nandan@123
+INFO  10:50:55 CheckCredential method invoked.
+INFO  11:00:29 Application started. Press Ctrl+C to shut down.
+INFO  11:00:29 Application started. Press Ctrl+C to shut down.
+INFO  11:00:29 Hosting environment: Development
+INFO  11:00:29 Hosting environment: Development
+INFO  11:00:29 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  11:00:29 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  11:13:28 Application started. Press Ctrl+C to shut down.
+INFO  11:13:28 Application started. Press Ctrl+C to shut down.
+INFO  11:13:28 Hosting environment: Development
+INFO  11:13:28 Hosting environment: Development
+INFO  11:13:28 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  11:13:28 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  02:17:14 Login method invoked, Username : nandan@123
+INFO  02:17:14 CheckCredential method invoked.
+INFO  02:18:47 Login method invoked, Username : nandan@123
+INFO  02:18:47 CheckCredential method invoked.
+INFO  02:19:11 Login method invoked, Username : nandan@123
+INFO  02:19:11 CheckCredential method invoked.
+INFO  02:19:22 Login method invoked, Username : nandan@123
+INFO  02:19:22 CheckCredential method invoked.
+INFO  03:19:31 Application started. Press Ctrl+C to shut down.
+INFO  03:19:31 Application started. Press Ctrl+C to shut down.
+INFO  03:19:31 Hosting environment: Development
+INFO  03:19:31 Hosting environment: Development
+INFO  03:19:31 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  03:19:31 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  03:20:09 Login method invoked, Username : nandan@123
+INFO  03:20:09 CheckCredential method invoked.
+INFO  03:20:32 Login method invoked, Username : nandan@123
+INFO  03:20:32 CheckCredential method invoked.
+INFO  03:44:03 Login method invoked, Username : nandan@123
+INFO  03:44:03 CheckCredential method invoked.
+INFO  03:46:43 Login method invoked, Username : nandan@123
+INFO  03:46:43 CheckCredential method invoked.
+INFO  03:46:53 Login method invoked, Username : nandan@123
+INFO  03:46:53 CheckCredential method invoked.
+INFO  04:25:08 Login method invoked, Username : nandan@123
+INFO  04:25:08 CheckCredential method invoked.
+INFO  04:30:30 Application started. Press Ctrl+C to shut down.
+INFO  04:30:30 Application started. Press Ctrl+C to shut down.
+INFO  04:30:30 Hosting environment: Development
+INFO  04:30:30 Hosting environment: Development
+INFO  04:30:30 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  04:30:30 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  04:30:45 Login method invoked, Username : abc
+INFO  04:30:45 CheckCredential method invoked.
+ERROR 04:30:50 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 04:30:50 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  04:31:30 Login method invoked, Username : nandan@123
+INFO  04:31:30 CheckCredential method invoked.
+ERROR 04:31:34 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 04:31:34 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  04:36:42 Login method invoked, Username : nandan@123
+INFO  04:36:42 CheckCredential method invoked.
+INFO  08:49:44 Application started. Press Ctrl+C to shut down.
+INFO  08:49:44 Application started. Press Ctrl+C to shut down.
+INFO  08:49:44 Hosting environment: Development
+INFO  08:49:44 Hosting environment: Development
+INFO  08:49:44 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  08:49:44 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  08:56:13 Login method invoked, Username : nandan@123
+INFO  08:56:13 CheckCredential method invoked.
+INFO  08:59:09 Login method invoked, Username : nandan@123
+INFO  08:59:09 CheckCredential method invoked.
+INFO  08:59:39 Login method invoked, Username : nandan@123
+INFO  08:59:39 CheckCredential method invoked.
+INFO  09:03:44 Login method invoked, Username : nandan@123
+INFO  09:03:44 CheckCredential method invoked.
+INFO  09:05:57 Login method invoked, Username : 1
+INFO  09:05:57 CheckCredential method invoked.
+INFO  09:06:07 Login method invoked, Username : nandan@123
+INFO  09:06:07 CheckCredential method invoked.
+INFO  09:28:27 Login method invoked, Username : nandan@123
+INFO  09:28:27 CheckCredential method invoked.
+INFO  10:26:35 Application started. Press Ctrl+C to shut down.
+INFO  10:26:35 Application started. Press Ctrl+C to shut down.
+INFO  10:26:35 Hosting environment: Development
+INFO  10:26:35 Hosting environment: Development
+INFO  10:26:35 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:26:35 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:26:50 Login method invoked, Username : nandan@123
+INFO  10:26:50 CheckCredential method invoked.
+INFO  10:27:21 Login method invoked, Username : nandan@123
+INFO  10:27:21 CheckCredential method invoked.
+INFO  10:35:41 Login method invoked, Username : nandan@123
+INFO  10:35:41 CheckCredential method invoked.
+INFO  10:42:10 Login method invoked, Username : nandan@123
+INFO  10:42:10 CheckCredential method invoked.
+INFO  10:51:31 Login method invoked, Username : nandan@123
+INFO  10:51:31 CheckCredential method invoked.
+INFO  11:31:38 Login method invoked, Username : nandan@123
+INFO  11:31:38 CheckCredential method invoked.
+INFO  11:49:38 Login method invoked, Username : nandan@123
+INFO  11:49:38 CheckCredential method invoked.
+INFO  12:13:43 Login method invoked, Username : nandan@123
+INFO  12:13:43 CheckCredential method invoked.
+INFO  09:10:59 Application started. Press Ctrl+C to shut down.
+INFO  09:10:59 Application started. Press Ctrl+C to shut down.
+INFO  09:10:59 Hosting environment: Development
+INFO  09:10:59 Hosting environment: Development
+INFO  09:10:59 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  09:10:59 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  09:15:22 Login method invoked, Username : nandan@123
+INFO  09:15:23 CheckCredential method invoked.
+INFO  09:15:57 Login method invoked, Username : nandan@123
+INFO  09:15:57 CheckCredential method invoked.
+INFO  09:19:26 Login method invoked, Username : nandan@123
+INFO  09:19:26 CheckCredential method invoked.
+ERROR 09:21:06 Error Occured from CheckCredentialError Message : One or more errors occurred. (A task was canceled.)
+ERROR 09:21:22 Error Occured from LoginError Message : One or more errors occurred. (A task was canceled.)
+INFO  09:23:21 Application started. Press Ctrl+C to shut down.
+INFO  09:23:21 Application started. Press Ctrl+C to shut down.
+INFO  09:23:21 Hosting environment: Development
+INFO  09:23:21 Hosting environment: Development
+INFO  09:23:21 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  09:23:21 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  09:23:54 Login method invoked, Username : nandan@123
+INFO  09:23:55 CheckCredential method invoked.
+ERROR 09:25:35 Error Occured from CheckCredentialError Message : One or more errors occurred. (A task was canceled.)
+ERROR 09:26:13 Error Occured from LoginError Message : One or more errors occurred. (A task was canceled.)
+INFO  09:38:51 Application started. Press Ctrl+C to shut down.
+INFO  09:38:51 Application started. Press Ctrl+C to shut down.
+INFO  09:38:51 Hosting environment: Development
+INFO  09:38:51 Hosting environment: Development
+INFO  09:38:51 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  09:38:51 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  09:39:40 Login method invoked, Username : nandan@123
+INFO  09:39:40 CheckCredential method invoked.
+INFO  09:44:53 Application started. Press Ctrl+C to shut down.
+INFO  09:44:53 Application started. Press Ctrl+C to shut down.
+INFO  09:44:53 Hosting environment: Development
+INFO  09:44:53 Hosting environment: Development
+INFO  09:44:53 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  09:44:53 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  09:45:17 Login method invoked, Username : nandan@123
+INFO  09:45:17 CheckCredential method invoked.
+INFO  09:45:29 Login method invoked, Username : nandan@123
+INFO  09:45:29 CheckCredential method invoked.
+INFO  09:47:18 Login method invoked, Username : nandan@123
+INFO  09:47:18 CheckCredential method invoked.
+INFO  09:52:44 Login method invoked, Username : nandan@123
+INFO  09:52:44 CheckCredential method invoked.
+INFO  10:01:15 Login method invoked, Username : nandan@123
+INFO  10:01:15 CheckCredential method invoked.
+INFO  10:11:27 Login method invoked, Username : nandan@123
+INFO  10:11:27 CheckCredential method invoked.
+INFO  10:15:28 Login method invoked, Username : nandan@123
+INFO  10:15:28 CheckCredential method invoked.
+INFO  10:17:20 Login method invoked, Username : nandan@123
+INFO  10:17:20 CheckCredential method invoked.
+INFO  10:26:46 Login method invoked, Username : nandan@123
+INFO  10:26:46 CheckCredential method invoked.
+INFO  10:35:51 Login method invoked, Username : john@123
+INFO  10:35:51 CheckCredential method invoked.
+INFO  10:36:24 Login method invoked, Username : jgjgjg
+INFO  10:36:24 CheckCredential method invoked.
+INFO  09:34:30 Application started. Press Ctrl+C to shut down.
+INFO  09:34:30 Application started. Press Ctrl+C to shut down.
+INFO  09:34:30 Hosting environment: Development
+INFO  09:34:30 Hosting environment: Development
+INFO  09:34:30 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  09:34:30 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  09:34:54 Login method invoked, Username : imtiyaz
+INFO  09:34:54 CheckCredential method invoked.
+INFO  09:35:16 Login method invoked, Username : imtiyaz
+INFO  09:35:16 CheckCredential method invoked.
+INFO  09:40:42 Login method invoked, Username : imtiyaz
+INFO  09:40:42 CheckCredential method invoked.
+INFO  09:50:32 Login method invoked, Username : jfjgjg
+INFO  09:50:32 CheckCredential method invoked.
+INFO  09:50:39 Login method invoked, Username : uuuiii
+INFO  09:50:39 CheckCredential method invoked.
+INFO  09:52:53 Application started. Press Ctrl+C to shut down.
+INFO  09:52:53 Application started. Press Ctrl+C to shut down.
+INFO  09:52:53 Hosting environment: Development
+INFO  09:52:53 Hosting environment: Development
+INFO  09:52:53 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  09:52:53 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  09:53:12 Login method invoked, Username : imtiyaz
+INFO  09:53:12 CheckCredential method invoked.
+INFO  09:53:28 Login method invoked, Username : imtiyaz
+INFO  09:53:28 CheckCredential method invoked.
+INFO  10:09:07 Login method invoked, Username : nandan
+INFO  10:09:07 CheckCredential method invoked.
+INFO  10:52:11 Login method invoked, Username : nandan
+INFO  10:52:11 CheckCredential method invoked.
+INFO  11:11:57 Application started. Press Ctrl+C to shut down.
+INFO  11:11:57 Application started. Press Ctrl+C to shut down.
+INFO  11:11:57 Hosting environment: Development
+INFO  11:11:57 Hosting environment: Development
+INFO  11:11:57 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  11:11:57 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  11:16:19 Login method invoked, Username : nandan
+INFO  11:16:19 CheckCredential method invoked.
+INFO  11:17:06 Login method invoked, Username : nandan
+INFO  11:17:06 CheckCredential method invoked.
+INFO  11:18:33 Login method invoked, Username : imtiyaz
+INFO  11:18:33 CheckCredential method invoked.
+INFO  11:18:53 Login method invoked, Username : imtiyaz
+INFO  11:18:53 CheckCredential method invoked.
+INFO  11:22:21 Login method invoked, Username : imtiyaz
+INFO  11:22:21 CheckCredential method invoked.
+INFO  11:25:01 Login method invoked, Username : imtiyaz
+INFO  11:25:01 CheckCredential method invoked.
+INFO  12:22:09 Login method invoked, Username : imtiyaz
+INFO  12:22:09 CheckCredential method invoked.
+INFO  12:28:28 Login method invoked, Username : imtiyaz
+INFO  12:28:28 CheckCredential method invoked.
+ERROR 12:28:32 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:28:32 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:28:45 Login method invoked, Username : imtiyaz
+INFO  12:28:45 CheckCredential method invoked.
+ERROR 12:28:49 Error Occured from CheckCredentialError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:28:49 Error Occured from LoginError Message : One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:32:49 Application started. Press Ctrl+C to shut down.
+INFO  12:32:49 Application started. Press Ctrl+C to shut down.
+INFO  12:32:49 Hosting environment: Development
+INFO  12:32:49 Hosting environment: Development
+INFO  12:32:49 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  12:32:49 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  12:33:52 Login method invoked, Username : imtiyaz
+INFO  12:33:52 CheckCredential method invoked.
+INFO  12:34:19 Login method invoked, Username : imtiyaz
+INFO  12:34:19 CheckCredential method invoked.
+INFO  12:39:37 Login method invoked, Username : imtiyaz
+INFO  12:39:37 CheckCredential method invoked.
+INFO  12:41:54 Login method invoked, Username : imtiyaz
+INFO  12:41:54 CheckCredential method invoked.
+INFO  12:47:05 Login method invoked, Username : imtiyaz
+INFO  12:47:05 CheckCredential method invoked.
+INFO  12:49:08 Login method invoked, Username : imtiyaz
+INFO  12:49:08 CheckCredential method invoked.
+INFO  12:51:08 Login method invoked, Username : imtiyaz
+INFO  12:51:08 CheckCredential method invoked.
+INFO  12:51:54 Login method invoked, Username : imtiyaz
+INFO  12:51:54 CheckCredential method invoked.
+INFO  12:52:57 Login method invoked, Username : imtiyaz
+INFO  12:52:57 CheckCredential method invoked.
+INFO  12:55:16 Login method invoked, Username : imtiyaz
+INFO  12:55:16 CheckCredential method invoked.
+INFO  12:56:51 Login method invoked, Username : imtiyaz
+INFO  12:56:51 CheckCredential method invoked.
+INFO  12:57:36 Login method invoked, Username : imtiyaz
+INFO  12:57:36 CheckCredential method invoked.
+INFO  01:00:01 Login method invoked, Username : imtiyaz
+INFO  01:00:01 CheckCredential method invoked.
+INFO  01:00:41 Login method invoked, Username : imtiyaz
+INFO  01:00:41 CheckCredential method invoked.
+INFO  01:01:46 Login method invoked, Username : imtiyaz
+INFO  01:01:46 CheckCredential method invoked.
+INFO  01:07:21 Login method invoked, Username : imtiyaz
+INFO  01:07:21 CheckCredential method invoked.
+INFO  01:08:47 Login method invoked, Username : imtiyaz
+INFO  01:08:47 CheckCredential method invoked.
+INFO  01:36:20 Login method invoked, Username : imtiyaz
+INFO  01:36:20 CheckCredential method invoked.
+INFO  01:41:17 Login method invoked, Username : imtiyaz
+INFO  01:41:17 CheckCredential method invoked.
+INFO  01:46:25 Login method invoked, Username : imtiyaz
+INFO  01:46:25 CheckCredential method invoked.
+INFO  01:56:24 Login method invoked, Username : imtiyaz
+INFO  01:56:24 CheckCredential method invoked.
+INFO  02:01:51 Login method invoked, Username : imtiyaz
+INFO  02:01:51 CheckCredential method invoked.
+INFO  02:08:00 Login method invoked, Username : imtiyaz
+INFO  02:08:00 CheckCredential method invoked.
+INFO  02:11:16 Login method invoked, Username : imtiyaz
+INFO  02:11:16 CheckCredential method invoked.
+INFO  02:16:12 Login method invoked, Username : imtiyaz
+INFO  02:16:12 CheckCredential method invoked.
+INFO  02:22:55 Login method invoked, Username : imtiyaz
+INFO  02:22:55 CheckCredential method invoked.
+INFO  03:17:59 Application started. Press Ctrl+C to shut down.
+INFO  03:18:00 Application started. Press Ctrl+C to shut down.
+INFO  03:18:00 Hosting environment: Development
+INFO  03:18:00 Hosting environment: Development
+INFO  03:18:00 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  03:18:00 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  03:18:59 Login method invoked, Username : nandan
+INFO  03:18:59 CheckCredential method invoked.
+INFO  03:19:18 Login method invoked, Username : nandan
+INFO  03:19:18 CheckCredential method invoked.
+INFO  03:37:24 Login method invoked, Username : nandan
+INFO  03:37:24 CheckCredential method invoked.
+INFO  03:37:39 Login method invoked, Username : nandan
+INFO  03:37:39 CheckCredential method invoked.
+INFO  03:46:25 Login method invoked, Username : nandan
+INFO  03:46:25 CheckCredential method invoked.
+INFO  03:51:34 Login method invoked, Username : nandan
+INFO  03:51:34 CheckCredential method invoked.
+INFO  03:59:15 Login method invoked, Username : nandan
+INFO  03:59:15 CheckCredential method invoked.
+INFO  04:02:35 Login method invoked, Username : nandan
+INFO  04:02:35 CheckCredential method invoked.
+INFO  10:04:06 Application started. Press Ctrl+C to shut down.
+INFO  10:04:06 Application started. Press Ctrl+C to shut down.
+INFO  10:04:06 Hosting environment: Development
+INFO  10:04:06 Hosting environment: Development
+INFO  10:04:06 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:04:06 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:05:19 Login method invoked, Username : nandan
+INFO  10:05:19 CheckCredential method invoked.
+INFO  10:05:41 Login method invoked, Username : imtiyaz
+INFO  10:05:41 CheckCredential method invoked.
+INFO  10:05:53 Login method invoked, Username : nandan
+INFO  10:05:53 CheckCredential method invoked.
+INFO  10:15:22 Login method invoked, Username : nandan
+INFO  10:15:22 CheckCredential method invoked.
+INFO  10:18:39 Login method invoked, Username : nandan
+INFO  10:18:39 CheckCredential method invoked.
+INFO  10:22:39 Login method invoked, Username : nandan
+INFO  10:22:39 CheckCredential method invoked.
+INFO  10:29:14 Application started. Press Ctrl+C to shut down.
+INFO  10:29:14 Application started. Press Ctrl+C to shut down.
+INFO  10:29:14 Hosting environment: Development
+INFO  10:29:14 Hosting environment: Development
+INFO  10:29:14 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:29:14 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  10:30:11 Login method invoked, Username : nandan
+INFO  10:30:11 CheckCredential method invoked.
+INFO  10:32:56 Login method invoked, Username : nandan
+INFO  10:32:56 CheckCredential method invoked.
+INFO  10:36:35 Login method invoked, Username : nandan
+INFO  10:36:35 CheckCredential method invoked.
+INFO  11:07:47 Application started. Press Ctrl+C to shut down.
+INFO  11:07:47 Application started. Press Ctrl+C to shut down.
+INFO  11:07:47 Hosting environment: Development
+INFO  11:07:47 Hosting environment: Development
+INFO  11:07:47 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  11:07:47 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  11:08:49 Login method invoked, Username : nandan
+INFO  11:08:49 CheckCredential method invoked.
+INFO  11:09:05 Login method invoked, Username : nandan
+INFO  11:09:05 CheckCredential method invoked.
+INFO  11:14:24 Application started. Press Ctrl+C to shut down.
+INFO  11:14:24 Application started. Press Ctrl+C to shut down.
+INFO  11:14:24 Hosting environment: Development
+INFO  11:14:24 Hosting environment: Development
+INFO  11:14:24 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  11:14:24 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  11:15:51 Login method invoked, Username : nandan
+INFO  11:15:51 CheckCredential method invoked.
+INFO  11:19:42 Login method invoked, Username : nandan
+INFO  11:19:42 CheckCredential method invoked.
+INFO  11:21:53 Login method invoked, Username : nandan
+INFO  11:21:53 CheckCredential method invoked.
+INFO  11:22:24 Login method invoked, Username : imtiyaz
+INFO  11:22:24 CheckCredential method invoked.
+INFO  11:23:08 Login method invoked, Username : irororofo
+INFO  11:23:08 CheckCredential method invoked.
+INFO  11:24:33 Application started. Press Ctrl+C to shut down.
+INFO  11:24:33 Application started. Press Ctrl+C to shut down.
+INFO  11:24:33 Hosting environment: Development
+INFO  11:24:33 Hosting environment: Development
+INFO  11:24:33 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  11:24:33 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  11:25:34 Login method invoked, Username : nandan
+INFO  11:25:34 CheckCredential method invoked.
+INFO  11:27:56 Login method invoked, Username : nandan
+INFO  11:27:56 CheckCredential method invoked.
+INFO  11:29:41 Login method invoked, Username : nandan
+INFO  11:29:41 CheckCredential method invoked.
+INFO  11:31:39 Login method invoked, Username : nandan
+INFO  11:31:39 CheckCredential method invoked.
+INFO  11:52:47 Login method invoked, Username : nandan
+INFO  11:52:47 CheckCredential method invoked.
+INFO  11:56:53 Login method invoked, Username : nandan
+INFO  11:56:53 CheckCredential method invoked.
+INFO  11:59:31 Login method invoked, Username : nandan
+INFO  11:59:31 CheckCredential method invoked.
+INFO  12:12:53 Login method invoked, Username : nandan
+INFO  12:12:53 CheckCredential method invoked.
+INFO  12:23:58 Login method invoked, Username : nandan
+INFO  12:23:58 CheckCredential method invoked.
+INFO  12:27:10 Login method invoked, Username : nandan
+INFO  12:27:10 CheckCredential method invoked.
+INFO  12:34:05 Login method invoked, Username : nandan
+INFO  12:34:05 CheckCredential method invoked.
+INFO  12:38:52 Login method invoked, Username : nandan
+INFO  12:38:52 CheckCredential method invoked.
+INFO  01:04:53 Login method invoked, Username : nandan
+INFO  01:04:53 CheckCredential method invoked.
+INFO  01:07:42 Login method invoked, Username : nandan
+INFO  01:07:42 CheckCredential method invoked.
+INFO  01:12:27 Login method invoked, Username : nandan
+INFO  01:12:27 CheckCredential method invoked.
+INFO  01:12:40 Login method invoked, Username : nandan
+INFO  01:12:40 CheckCredential method invoked.
+INFO  01:36:57 Login method invoked, Username : nandan
+INFO  01:36:57 CheckCredential method invoked.
+INFO  02:11:55 Login method invoked, Username : nandan
+INFO  02:11:55 CheckCredential method invoked.
+INFO  02:37:35 Application started. Press Ctrl+C to shut down.
+INFO  02:37:35 Application started. Press Ctrl+C to shut down.
+INFO  02:37:35 Hosting environment: Development
+INFO  02:37:35 Hosting environment: Development
+INFO  02:37:35 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization
+INFO  02:37:35 Content root path: C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization

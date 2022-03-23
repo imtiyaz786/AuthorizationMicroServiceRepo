@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0bf1c4a-8dd4-41df-9815-75d7347663f6": {
+      "ProjectGuid": "c0bf1c4a-8dd4-41df-9815-75d7347663f6",
+      "DisplayName": "Authorization",
+      "ColorIndex": 0
+    },
+    "963cf2e3-c86e-454f-a0e8-1c6c5071a852": {
+      "ProjectGuid": "963cf2e3-c86e-454f-a0e8-1c6c5071a852",
+      "DisplayName": "AuthorizationTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

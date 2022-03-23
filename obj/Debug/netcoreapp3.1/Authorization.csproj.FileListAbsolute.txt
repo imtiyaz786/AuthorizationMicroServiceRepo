@@ -1,0 +1,98 @@
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\log4net.config
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.AssemblyReference.cache
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.AssemblyReference.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\scopedcss\bundle\Authorization.styles.css
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
